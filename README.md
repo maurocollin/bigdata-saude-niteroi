@@ -1,7 +1,3 @@
-# bigdata-saude-niteroi
-Análise de Indicadores de Saúde Municipal com foco em Big Data para o município de Niterói/RJ.
-
-
 # Análise de Indicadores de Saúde: Niterói/RJ 🏥
 
 Projeto de Big Data focado na análise da oferta hospitalar e identificação de vazios assistenciais.
