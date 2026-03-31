@@ -1,0 +1,9 @@
+﻿fid,telefone,bairro,municipio,num,lograd,nome,cep,pais,uf,regsaude,cnes,compl,nome_gen
+1,2609-6368,Maravista,Niterói,s/n,Estrada Engenho do Mato,Policlínica Regional de Itaipu,24346-040,Brasil,RJ,Leste Oceânica,0012726, ,Policlínica Regional de Itaipu
+2,2717-1426,Centro,Niterói,s/n,Rua Jansen de Mello,Policlínica Regional Carlos Antonio da Silva,24030-220,Brasil,RJ,Praias da Baía I,0012602, ,Policlínica Regional Carlos Antonio da Silva
+3,2616-3633,Largo da Batalha,Niterói,30,Rua Vereador Armando Ferreira,Policlínica Regional do Dr Francisco da Cruz Nunes,24310-090,Brasil,RJ,Pendotiba,0012734, ,Policlínica Regional do Largo da Batalha
+4,2626-4170,Fonseca,Niterói,238,Rua Desembargador Lima Castro,Policlínica Regional de Saúde Dr Guilherme Taylor March,24140-173,Brasil,RJ,Norte I,3963462, ,Policlínica Regional do Fonseca
+5,2711-2366,Vital Brazil,Niterói,s/n,Rua Vital Brazil,Policlínica Regional Dr Sergio Arouca,24230-323,Brasil,RJ,Praias da Baía II,0012580, ,Policlínica Regional Sérgio Arouca
+6,2628-8047,Engenhoca,Niterói,s/n,Avenida João Brasil,Policlínica Regional Dr Renato Silva,24110-070,Brasil,RJ,Norte II,0012637, ,Policlínica Regional da Engenhoca
+7,2719-0141,Barreto,Niterói,726,Rua Doutor Luiz Palmier,Policlínica Regional Dr Joao da Silva Vizella,24110-340,Brasil,RJ,Norte II,0012645, ,Policlínica Regional do Barreto
+8,3701-8271,Piratininga,Niterói,111,Rua Doutor Marcolino Gomes Candau,Policlínica Regional Dom Luiz Orione,24358-390,Brasil,RJ,Leste Oceânica,0012904, ,Policlínica Regional de Piratininga
