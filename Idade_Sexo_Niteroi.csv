@@ -1,0 +1,29 @@
+﻿"Tabela 9514 - População residente, por sexo, idade e forma de declaração da idade"
+"Variável - População residente (Pessoas)"
+"Cód.";"Município";"Forma de declaração da idade";"Ano x Sexo x Idade"
+"Cód.";"Município";"Forma de declaração da idade";"2022"
+"Cód.";"Município";"Forma de declaração da idade";"Homens";;;;;;;;;;;;;;;;;;;;;"Mulheres"
+"Cód.";"Município";"Forma de declaração da idade";"0 a 4 anos";"5 a 9 anos";"10 a 14 anos";"15 a 19 anos";"20 a 24 anos";"25 a 29 anos";"30 a 34 anos";"35 a 39 anos";"40 a 44 anos";"45 a 49 anos";"50 a 54 anos";"55 a 59 anos";"60 a 64 anos";"65 a 69 anos";"70 a 74 anos";"75 a 79 anos";"80 a 84 anos";"85 a 89 anos";"90 a 94 anos";"95 a 99 anos";"100 anos ou mais";"0 a 4 anos";"5 a 9 anos";"10 a 14 anos";"15 a 19 anos";"20 a 24 anos";"25 a 29 anos";"30 a 34 anos";"35 a 39 anos";"40 a 44 anos";"45 a 49 anos";"50 a 54 anos";"55 a 59 anos";"60 a 64 anos";"65 a 69 anos";"70 a 74 anos";"75 a 79 anos";"80 a 84 anos";"85 a 89 anos";"90 a 94 anos";"95 a 99 anos";"100 anos ou mais"
+"3303302";"Niterói (RJ)";"Total";"10994";"12446";"12124";"12727";"15199";"15820";"16219";"16844";"18595";"15255";"14350";"14603";"13754";"11349";"8511";"5535";"3534";"1892";"745";"157";"27";"10649";"12566";"11492";"12360";"15978";"17176";"17814";"19120";"20981";"18027";"17476";"18113";"18039";"15738";"12545";"9248";"6523";"4206";"2209";"674";"135"
+"Fonte: IBGE - Censo Demográfico"
+
+"Notas"
+"1 - Dados do Universo."
+"2- Os dados referentes aos municípios Abel Figueiredo (PA) e São Pedro da Água Branca (MA) foram corrigidos no dia 22/12/2023, impactando nos totais dos estados do Pará e do Maranhão e nos totais das Grandes Regiões do Norte e Nordeste."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
