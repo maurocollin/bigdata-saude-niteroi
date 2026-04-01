@@ -1,4 +1,44 @@
-# 🏥 Análise de Indicadores de Saúde - Niterói/RJ
+# 🏥 Análise Georreferenciada de Saúde - Niterói/RJ
+> **Projeto de Extensão: Tópicos de Big Data em Python**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=Leaflet&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 👥 Integrantes
+* **Hudson Mata Neves** (Matrícula: 202402852175) - *Engenharia de Dados & ETL*
+* **Mauro Henrique Collin Ferreira** (Matrícula: 202403689601) - *Análise Estatística & Geoprocessamento*
+
+## 🎯 Objetivo do Projeto
+O objetivo deste projeto é identificar e analisar os **Desertos Assistenciais** de saúde nos bairros de Niterói-RJ. Através do cruzamento de bases demográficas e de infraestrutura, buscamos responder: *A oferta de saúde acompanha o crescimento populacional da cidade?*
+
+## 🛠️ Arquitetura de Dados (Pipeline)
+O projeto foi estruturado para ser totalmente portátil e executável via nuvem:
+1. **Data Sourcing:** Extração automatizada de CSVs via GitHub e integração de dados hospitalares via API `PySUS` (DataSUS).
+2. **Data Cleaning:** Normalização de malhas censitárias e mineração de texto para classificação de gestão (Pública vs Privada).
+3. **Analytics:** Cálculo de pressão assistencial, detecção de *Outliers* (Z-Score) e regressão linear de demanda.
+4. **Geospatial Visualization:** Geração de mapas coropléticos interativos integrando a malha oficial do IPEA (`geobr`).
+
+## 📊 Fontes e Validação
+A veracidade dos dados é o pilar deste projeto. Utilizamos fontes oficiais cruzadas:
+- **Demografia:** Censo IBGE 2022.
+- **Capacidade:** CNES (Cadastro Nacional de Estabelecimentos de Saúde) via `PySUS`.
+- **Validação de Rede:** [FeSaúde Niterói](https://www.fesaude.niteroi.rj.gov.br/nossas-unidades-lista-completa).
+- **Contextualização:** Dados de cobertura suplementar da [ANS](https://www.ans.gov.br/).
+
+## 💡 Principais Insights
+- **O Fator ANS:** Descobrimos que a alta taxa de planos de saúde em Niterói (aprox. 60%) explica a baixa densidade de unidades públicas em bairros como Icaraí.
+- **Unidades de Fronteira:** O Big Data revelou que algumas unidades (ex: MMF Colônia) atendem populações de bairros vizinhos, o que exige uma análise geográfica além do polígono do mapa.
+- **Regressão:** A baixa correlação (R²) entre população e número de hospitais sugere uma distribuição histórica centralizada, indicando a necessidade de expansão para a Região Oceânica.
+
+## 🚀 Como Executar
+1. Acesse o notebook no [Google Colab](LINK_DO_SEU_COLAB_AQUI).
+2. Execute os blocos de importação (os dados serão baixados automaticamente deste repositório).
+3. Explore os mapas interativos gerados ao final do código.
+
+---
+**Estácio Niterói | 2026.1**# 🏥 Análise de Indicadores de Saúde - Niterói/RJ
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
