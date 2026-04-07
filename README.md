@@ -29,6 +29,8 @@ O projeto foi estruturado para ser totalmente portátil e executável em nuvem:
 - **O Fator ANS:** A análise sugere que a alta cobertura suplementar em bairros como Icaraí justifica a baixa presença de unidades públicas, enquanto bairros como Fonseca apresentam alta pressão assistencial no SUS.
 - **Regressão e Resíduos:** O modelo demonstrou que a oferta de unidades básicas não cresce na mesma proporção que a população (R² baixo), sinalizando a necessidade de expansão da rede.
 - **Capacidade OMS:** O projeto avalia o indicador de leitos por 1.000 habitantes, comparando a realidade local com a meta da **Organização Mundial da Saúde (3 a 5 leitos/mil hab)**.
+- **O Fator Saúde Suplementar:** O cruzamento de dados revelou que bairros como Icaraí aparecem como 'desertos assistenciais públicos'. No entanto, ao integrar dados da ANS, observamos que cerca de 50% da população de Niterói possui plano de saúde, com concentrações que ultrapassam 80% em bairros nobres, o que altera a interpretação de necessidade de novas UBS nessas áreas específicas.
+- **Fonte: ANS** - Agência Nacional de Saúde Suplementar. Caderno de Informações de Saúde Suplementar (Beneficiários por Município).
 
 ## 🚀 Como Executar
 1. Acesse o notebook através do seu ambiente Python ou [Google Colab](https://colab.research.google.com/).
