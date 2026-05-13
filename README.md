@@ -58,5 +58,15 @@ Os dados são consumidos diretamente deste repositório para garantir a **reprod
 2. Utilize o botão **"Open in Colab"** (se disponível) ou execute localmente em um ambiente Jupyter.
 3. Certifique-se de ter uma conexão ativa com a internet para que o código possa baixar as bases de dados e a malha geográfica.
 
+## 🤖 Declaração de Uso de Inteligência Artificial (IA)
+
+Em conformidade com as diretrizes da disciplina, declaramos o uso de ferramentas de Inteligência Artificial Generativa (principalmente o **Google Gemini**, com suporte auxiliar do **ChatGPT** em demandas específicas) para auxiliar no desenvolvimento deste projeto. 
+
+As IAs foram utilizadas de forma assistiva, crítica e supervisionada para os seguintes fins:
+* **Planejamento e Arquitetura:** Sugestão de fluxo de trabalho (início, meio e fim) e adoção de boas práticas de Engenharia e Ciência de Dados.
+* **Engenharia de Dados (Etapa 3):** Auxílio na estruturação dos códigos de agregação, cruzamento de bases (*merge*) e na auditoria final de qualidade da Tabela Analítica.
+* **Visualização de Dados (Etapa 5 - Análise Preditiva):** Geração do código específico para ajuste de layout (inclinação dos rótulos dos bairros em 45º) no gráfico, melhorando a legibilidade visual.
+* **Code Review:** Revisão e validação pontual do código desenvolvido pela dupla ao longo das etapas, buscando otimização e correção de pequenos erros.
+
 ---
 > **Impacto Social:** Este estudo fornece subsídios técnicos para o planejamento de políticas públicas em Niterói, evidenciando áreas que necessitam de expansão da rede assistencial.
