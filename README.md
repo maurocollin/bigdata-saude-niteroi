@@ -14,10 +14,10 @@
 * **Profª Simone Gama**
 
 ### **Corpo Discente (Grupo):**
-| Nome | Matrícula |
-| :--- | :--- |
-| **Hudson Mata Neves** | 202402852175 |
-| **Mauro Henrique Collin Ferreira** | 202403689601 |
+| Nome | Matrícula | Função no Projeto |
+| :--- | :--- | :--- |
+| **Hudson Mata Neves** | 202402852175 | Analista de Dados |
+| **Mauro Henrique Collin Ferreira** | 202403689601 | Engenheiro de Dados |
 
 ---
 
