@@ -11,7 +11,7 @@
 ---
 
 ### **Corpo Docente:**
-* **Profª Simone Gama**
+* **Profª: Simone Ingrid Monteiro Gama**
 
 ### **Corpo Discente (Grupo):**
 | Nome | Matrícula | Função no Projeto |
