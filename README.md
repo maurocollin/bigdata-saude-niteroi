@@ -49,8 +49,8 @@ O projeto foi desenvolvido seguindo um rigoroso fluxo de engenharia de dados:
 ## 📂 Fontes de Dados
 Os dados foram obtidos de bases governamentais oficiais e são consumidos diretamente deste repositório para garantir a **reprodutibilidade** e a precisão da análise:
 
-* `Agregados_por_bairros_basico_BR.csv`: * **Dados Demográficos (IBGE):** [Censo 2022 - Agregados por Bairros](https://ftp.ibge.gov.br/Censos/Censo_Demografico_2022/Agregados_por_Setores_Censitarios/Agregados_por_Bairro_csv/Agregados_por_bairros_basico_BR_20250417.zip)
-    * *Dicionário de dados:* [IBGE Dicionário](https://ftp.ibge.gov.br/Censos/Censo_Demografico_2022/Agregados_por_Setores_Censitarios/dicionario_de_dados_agregados_por_setores_censitarios_20250417.xlsx)
+* `Agregados_por_bairros_basico_BR.csv`: * **Dados Demográficos (IBGE):** [Censo 2022 - Agregados por Bairros](https://ftp.ibge.gov.br/Censos/Censo_Demografico_2022/Agregados_por_Setores_Censitarios/Agregados_por_Bairro_csv/)
+    * *Dicionário de dados:* [IBGE Dicionário](https://ftp.ibge.gov.br/Censos/Censo_Demografico_2022/Agregados_por_Setores_Censitarios/)
 * `CNES_Leitos_Niteroi.csv`: * **Capacidade Hospitalar (DATASUS/CNES):** [CNES - Base de Dados de Leitos](https://cnes.datasus.gov.br/pages/downloads/arquivosBaseDados.jsp)
     * *Dicionário de dados:* [CNES Dicionário](https://cnes.datasus.gov.br/EstatisticasServlet?path=SCNES_DICIONARIO_DE_DADOS.ZIP)
 * **Infraestrutura de Saúde (SIGeo Niterói):**
