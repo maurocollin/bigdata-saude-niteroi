@@ -1,12 +1,13 @@
 # 🎓 Faculdade Estácio de Sá
-## **Curso:** Análise e Desenvolvimento de Sistemas
-### **Disciplina:** Tópicos de Big Data em Python
+### **Curso:** Análise e Desenvolvimento de Sistemas
+#### **Disciplina:** Tópicos de Big Data em Python
 
 ---
 
-### 📊 **PROJETO EXTENSIONISTA**
-## **Tema:** Análise de Indicadores de Saúde Municipal Pública e Privada
-### *Previsão de Demandas por Bairro em Niterói-RJ*
+#### 📊 **PROJETO EXTENSIONISTA**
+### **Tema:** Análise de Indicadores de Saúde Municipal Pública e Privada
+#### *Previsão de Demandas por Bairro em Niterói-RJ*
+#### *Niterói - 2026.1*
 
 ---
 
@@ -23,6 +24,8 @@
 
 ## 📝 Sobre o Projeto
 Este projeto de **Big Data Analytics** visa analisar a infraestrutura de saúde (pública e privada) do município de Niterói-RJ, cruzando dados demográficos do IBGE com dados de capacidade instalada do CNES e prefeituras. O objetivo é identificar "desertos assistenciais" e prever demandas baseadas no crescimento populacional, atendendo aos requisitos de um **Trabalho Extensionista** com impacto social direto.
+## 📂 OBS:
+Os arquivos **ANALISE_DE_INDICADORES_DE_SAÚDE_MUNICIPAL_PUBLICA_E_PRIVADA.pdf** e **Apresentacao_final_BIGDATA.pdf** estão dentro do diretório DOCUMENTOS deste repositório.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3.x
